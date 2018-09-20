@@ -1,0 +1,23 @@
+header {
+    background-color: #ffc044;
+    color: #fff7e8;
+}
+
+body {
+    background-color: white;
+}
+
+main {
+    background-color: #ffeece;
+    padding: 16px;
+}
+
+.finstagram-post { 
+    margin-bottom: 48px;
+}
+
+.finstagram-post .user-info img {
+    border-radius: 50%;
+} 
+    
+    
